@@ -1,6 +1,7 @@
-a=ice-ufrag:W2FR
-a=ice-pwd:YGp3vbLqbxuQ4Qfz9f7rgR
-a=candidate:1 1 UDP 2122317823 100.90.85.43 46143 typ host
-a=candidate:2 1 UDP 1686109951 1.145.163.252 3391 typ srflx raddr 0.0.0.0 rport 0
+a=ice-ufrag:9CpK
+a=ice-pwd:KcJ5WM2v2/ko8eM9ApDnul
+a=candidate:2 1 UDP 2130706175 2001:8003:3829:901:65d5:5e21:ada7:da8d 39161 typ host
+a=candidate:1 1 UDP 2122317823 192.168.0.10 39161 typ host
+a=candidate:3 1 UDP 1686109695 143.238.100.166 39161 typ srflx raddr 0.0.0.0 rport 0
 a=end-of-candidates
 a=ice-options:ice2
